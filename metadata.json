@@ -1,0 +1,6 @@
+{
+  "name": "Budget Tracker",
+  "description": "A budget tracking app with data visualization charts and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
